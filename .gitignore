@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.pytest_cache/
+htmlcov/
+coverage.xml
+.coveragerc
+
+# mypy
+.mypy_cache/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter Notebook checkpoints and outputs
+.ipynb_checkpoints/
+*.nbgrader/*
+
+# Logs and local data
+ace.log
+feedback_memory.json
+*.log
+
+# Secrets and credentials
+secrets/
+*.key
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# compiled Python files in repo root
+*.pyc
+
